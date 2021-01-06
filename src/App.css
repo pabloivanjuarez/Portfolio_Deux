@@ -32,7 +32,106 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+/* custom styles */
+/* Nav bar styles*/
+
+.nav-barz {
+  background-color: #0065743d;
+}
+
+#nav-color {
+  color: #1f0099;
+  cursor: none;
+  letter-spacing: 2px;
+  font-weight: lighter;
+}
+
+.navbar-nav {
+  padding-left: 25vw;
+}
+
+#nav-linx {
+  color: #734eaf73;
+  text-align: right;
+  letter-spacing: 4px;
+  margin-left: 2vh;
+  font-weight: 565;
+}
+
+.nav-link a:hover {
+  color: cornsilk;
+}
+
+.container-fluid {
+  height: fit-content;
+}
+
+nav a:hover {
+  color: #fff !important;
+}
+
+/*main styles*/
+
+main {
+  padding: 25px;
+  bottom: 5vh;
+}
+
+main {
+  text-align: center;
+}
+
+.img-thumbnail {
+  position: relative;
+  max-width: 30vh;
+}
+
+.text-right {
+  text-align: center !important;
+}
+
+.card-deck {
+  flex-flow: column;
+}
+
+/*carousel*/
+
+.d-block {
+  height: 543px;
+  width: 415px;
+}
+
+/*footer*/
+
+.smed {
+  font-size: xx-large;
+  letter-spacing: 5px;
+}
+
+footer {
+  position: sticky;
+  bottom: 0;
+}
+
+#footer-row {
+  padding: 15px;
+  margin: 0;
+}
+
+a {
+  color: #734eaf73;
+}
+
+a:hover {
+  color: salmon;
+}
+
+a:active {
+  color: crimson;
 }
