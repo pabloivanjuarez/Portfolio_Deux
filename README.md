@@ -1,6 +1,9 @@
 
   # Portfolio_Deux
-  ![License Badge](https://img.shields.io/badge/License-MIT-blue) ![Code Badge](https://img.shields.io/badge/JavaScript-100%25-green)
+  ![License Badge](https://img.shields.io/badge/License-MIT-blue) 
+  ![JS Badge](https://img.shields.io/badge/JavaScript-49.9%25-yellow)
+  ![CSS Badge](https://img.shields.io/badge/JavaScript-26.6%25-purple)
+  ![HTML Badge](https://img.shields.io/badge/JavaScript-23.5%25-red)
   
   ## Description
 
